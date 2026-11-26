@@ -21,7 +21,7 @@ Wiki page: [M465B](../../../../PAGES/M465B.md)
 - **Closed boxes:** 21
 - **Wiring (first pass):** 142 connected wire groups from 463 runs
 
-Every curve, box, word and wire group: [1982 - M465B - B 465-01-003 - M465B - REVERB MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1982%20-%20M465B%20-%20B%20465-01-003%20-%20M465B%20-%20REVERB%20MODULE%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `1982 - M465B - B 465-01-003 - M465B - REVERB MODULE - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M465B - B 465-01-003 - M465B - REVERB MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1982%20-%20M465B%20-%20B%20465-01-003%20-%20M465B%20-%20REVERB%20MODULE%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1982 - M465B - B 465-01-003 - M465B - REVERB MODULE - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

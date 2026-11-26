@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (368, 29)–(432, 50) mm: ISSUE IDATE · WBSS WARO-Beck sytems · M4658
 - **Wiring (first pass):** 156 connected wire groups from 934 runs, 2 dotted junctions; labelled ends: 387 mm → PRE, Post; 356 mm → 390; 223 mm → WBSS; 184 mm → PRE, Post; 115 mm → 22/25
 
-Every curve, box, word and wire group: [19xx - M465B - DOC - 465-02-003 - REVERB MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M465B%20-%20DOC%20-%20465-02-003%20-%20REVERB%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M465B - DOC - 465-02-003 - REVERB MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M465B - DOC - 465-02-003 - REVERB MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M465B%20-%20DOC%20-%20465-02-003%20-%20REVERB%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M465B - DOC - 465-02-003 - REVERB MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

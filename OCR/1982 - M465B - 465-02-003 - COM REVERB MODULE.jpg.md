@@ -22,7 +22,7 @@ Wiki page: [M465B](../../../../PAGES/M465B.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 167 connected wire groups from 1,184 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [1982 - M465B - 465-02-003 - COM REVERB MODULE (traced).json](../SCHEMATICS/1982%20-%20M465B%20-%20465-02-003%20-%20COM%20REVERB%20MODULE%20(traced).json) (the CAD file: `1982 - M465B - 465-02-003 - COM REVERB MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M465B - 465-02-003 - COM REVERB MODULE (traced).json](../SCHEMATICS/1982%20-%20M465B%20-%20465-02-003%20-%20COM%20REVERB%20MODULE%20%28traced%29.json) (the CAD file: `1982 - M465B - 465-02-003 - COM REVERB MODULE (traced).dxf`).
 
 ## Full text
 

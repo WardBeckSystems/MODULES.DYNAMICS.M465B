@@ -20,7 +20,7 @@ Wiki page: [M465B](../../../../PAGES/M465B.md)
 - **Closed boxes:** 9
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT (traced).json](../MECHANICAL/1982%20-%20M465B%20-%20465-04-007%20-%20FRONT%20PANEL%20LAYOUT%20(traced).json) (the CAD file: `1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT (traced).json](../MECHANICAL/1982%20-%20M465B%20-%20465-04-007%20-%20FRONT%20PANEL%20LAYOUT%20%28traced%29.json) (the CAD file: `1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [M465B](../../../../PAGES/M465B.md)
 - **Closed boxes:** 24
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1982 - M465B - B 465-06-002 - M465B - REVERB MODULE - COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M465B%20-%20B%20465-06-002%20-%20M465B%20-%20REVERB%20MODULE%20-%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1982 - M465B - B 465-06-002 - M465B - REVERB MODULE - COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M465B - B 465-06-002 - M465B - REVERB MODULE - COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M465B%20-%20B%20465-06-002%20-%20M465B%20-%20REVERB%20MODULE%20-%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1982 - M465B - B 465-06-002 - M465B - REVERB MODULE - COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 
