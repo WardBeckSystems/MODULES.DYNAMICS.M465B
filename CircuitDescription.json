@@ -1,0 +1,43 @@
+{
+ "module": "M465B",
+ "source": {
+  "file": "MANUALS/1982 - M465B - p5.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M465B REVERB MODULE is designed to be used in conjunction with an external reverberation chamber and allows the Line level Reverb Return signal to be distributed throughout the mixing console system."
+   ]
+  },
+  {
+   "heading": "INPUT AND FADER",
+   "paragraphs": [
+    "The input signal is applied to edge connector pins 16 IT and routed to the CH ON switch, SW15. This is also the pickup point for the PFL output. Following the CH ON switch, the signal goes to the 600 ohm balanced fader via pin 15 Is. This is also the pickup point for the prefade FB RS and PA outputs The fader output is returned to the module on pins 14 [R. 8-109 BOOSTER AMPLIFIER This amplifier operates with gain of 15 dB and recovers the nominal 15 dB \"in-hand\" loss incurred by the fader and develops sufficient additiona power 10 drive the PAN and output circuitry"
+   ]
+  },
+  {
+   "heading": "DIRECT OUTPUT",
+   "paragraphs": [
+    "The DIRECT output appears at pin 17 [u with of -10 dBm/600 ohms. nominal output level"
+   ]
+  },
+  {
+   "heading": "LEFT AND RIGHT OUTPUTS",
+   "paragraphs": [
+    "The output signa of the 8-109 amplifier is routed via PAN switch SW14, and PAN control R17 through R20, to the LEFT and RIGHT outputs at pins 13 IP and pins 12 IN respectively"
+   ]
+  },
+  {
+   "heading": "AUXILIARY OUTPUTS",
+   "paragraphs": [
+    "In addition SOLO output is available via SW12, to allow selective monitoring of the particular Reverb channel _ Other feeds originating from the 8-109 amplifier are supplied to the RS, FB and PA POSTFADE channels PRE/PosT SELECTOR SWITCHES AND LEVEL CONTROLS PRE/poST selection of the RS, FB and PA channels is facilitated by switches SW5, SwB/SW11 and SW2 respectively _ Each switch is followed by its associated level control The outputs of the level controls are fed to the summing outputs via individual assignment switches"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "module": "M465B",
+ "title": "ML6SB REVERB MODULE",
+ "source": {
+  "file": "MANUALS/1982 - M465B - p4.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.98,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "15 dB t 0.5 dB",
+   "quantities": [
+    {
+     "value": 15,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "0.25 dB form 20 Hz to 20 kHz",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "80 dB S/N,",
+   "quantities": [
+    {
+     "value": 80,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25 % THD from 20 Hz to 20 kHz a 724 dBm output or less. Less then 0.17 at kHz at +24 dBm output or less",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 724,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or Tess, balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "600 ohms; balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "-10 cBm nominal, +30 dBm maximum.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less {nan 200 ohms, balanced",
+   "quantities": [
+    {
+     "value": 200,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "3,000 ohms minimum; each output, balanced.",
+   "quantities": [
+    {
+     "value": 3000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output levels",
+   "key": "output_level",
+   "text": "-10 dBm nominal, +28 dBm maximum",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output terminals designated by numbers are in phase."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "25 volts dc 25 mA nominal, 50 mA maximum. +24 volts dc 50 mA",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 25,
+     "unit": "mA"
+    },
+    {
+     "value": 50,
+     "unit": "mA"
+    },
+    {
+     "value": 24,
+     "unit": "volts dc"
+    },
+    {
+     "value": 50,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 degrees C"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.6\" wide X 7\" high X 6.5\" deep. (41mm X 178mm X 165mm)",
+   "quantities": [
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ]
+}

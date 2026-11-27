@@ -13,6 +13,57 @@ Ward-Beck Systems M465B, 1982|15. Wiki page: [M465B on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 15 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1982 - M465B - p4.jpg](MANUALS/1982%20-%20M465B%20-%20p4.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 15 dB t 0.5 dB |
+| **Frequency response** | 0.25 dB form 20 Hz to 20 kHz |
+| **Noise** | 80 dB S/N, |
+| **Harmonic distortion** | Less than 0.25 % THD from 20 Hz to 20 kHz a 724 dBm output or less. Less then 0.17 at kHz at +24 dBm output or less |
+| **Source impedance** | 600 ohms or Tess, balanced |
+| **Input impedance** | 600 ohms; balanced |
+| **Input levels** | -10 cBm nominal, +30 dBm maximum. |
+| **Output impedance** | Less {nan 200 ohms, balanced |
+| **Load impedance** | 3,000 ohms minimum; each output, balanced. |
+| **Output levels** | -10 dBm nominal, +28 dBm maximum |
+| **Phasing** | Input and output terminals designated by numbers are in phase. |
+| **Power requirements** | 25 volts dc 25 mA nominal, 50 mA maximum. +24 volts dc 50 mA |
+| **Ambient temperature** | to 60 degrees C |
+| **Dimensions** | 1.6&quot; wide X 7&quot; high X 6.5&quot; deep. (41mm X 178mm X 165mm) |
+
+## Circuit description
+
+From [1982 - M465B - p5.jpg](MANUALS/1982%20-%20M465B%20-%20p5.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M465B REVERB MODULE is designed to be used in conjunction with an external reverberation chamber and allows the Line level Reverb Return signal to be distributed throughout the mixing console system.
+
+**INPUT AND FADER**
+
+The input signal is applied to edge connector pins 16 IT and routed to the CH ON switch, SW15. This is also the pickup point for the PFL output. Following the CH ON switch, the signal goes to the 600 ohm balanced fader via pin 15 Is. This is also the pickup point for the prefade FB RS and PA outputs The fader output is returned to the module on pins 14 [R. 8-109 BOOSTER AMPLIFIER This amplifier operates with gain of 15 dB and recovers the nominal 15 dB &quot;in-hand&quot; loss incurred by the fader and develops sufficient additiona power 10 drive the PAN and output circuitry
+
+**DIRECT OUTPUT**
+
+The DIRECT output appears at pin 17 [u with of -10 dBm/600 ohms. nominal output level
+
+**LEFT AND RIGHT OUTPUTS**
+
+The output signa of the 8-109 amplifier is routed via PAN switch SW14, and PAN control R17 through R20, to the LEFT and RIGHT outputs at pins 13 IP and pins 12 IN respectively
+
+**AUXILIARY OUTPUTS**
+
+In addition SOLO output is available via SW12, to allow selective monitoring of the particular Reverb channel _ Other feeds originating from the 8-109 amplifier are supplied to the RS, FB and PA POSTFADE channels PRE/PosT SELECTOR SWITCHES AND LEVEL CONTROLS PRE/poST selection of the RS, FB and PA channels is facilitated by switches SW5, SwB/SW11 and SW2 respectively _ Each switch is followed by its associated level control The outputs of the level controls are fed to the summing outputs via individual assignment switches
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
