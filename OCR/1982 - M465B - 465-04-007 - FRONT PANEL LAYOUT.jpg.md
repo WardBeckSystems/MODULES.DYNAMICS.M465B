@@ -1,5 +1,5 @@
 # 1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT.jpg
-Wiki page: [M465B](../../../../PAGES/M465B.md)
+Wiki page: [M465B](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

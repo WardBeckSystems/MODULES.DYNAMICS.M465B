@@ -1,5 +1,5 @@
 # 1982 - M465B - B 465-06-002 - M465B - REVERB MODULE - COMPONENT LAYOUT.jpg
-Wiki page: [M465B](../../../../PAGES/M465B.md)
+Wiki page: [M465B](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))
